@@ -1,0 +1,6 @@
+{
+  "name": "주차비서",
+  "description": "스마트폰 GPS와 기둥 사진 메모로 내 차 주차 위치를 저장하고 도보 길찾기로 쉽게 찾아가는 고대비 주차 위치 기억 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
